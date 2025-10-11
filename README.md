@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI! 👋 I'm Max a young developer who loves creating games. Currently I am the lead developer at Rosepen Studios, working on a game about the consequences of AI.
+HI! 👋 I'm Max a young developer who loves creating games. Currently I am the lead developer at Rosepen Studios, working on SuperEgo, a game about the consequences of AI.
 
 
 ## 🌐 Socials:
