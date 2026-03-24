@@ -12,10 +12,4 @@ HI! 👋 I'm Max a young developer who loves creating games. Currently I am the 
 ![](https://nirzak-streak-stats.vercel.app/?user=FIrepixel85&theme=discord_old_blurple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FIrepixel85&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FIrepixel85&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=FIrepixel85&icon=0&color=1)](https://visitcount.itsvg.in)
-
 
